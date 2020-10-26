@@ -1,1 +1,1 @@
-# biased-chess
+# Learning Chess Biases 
